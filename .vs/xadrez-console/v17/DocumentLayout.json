@@ -71,19 +71,6 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Torre.cs",
-              "DocumentMoniker": "E:\\Desenvolvimento\\xadrez-console\\xadrez\\Torre.cs",
-              "RelativeDocumentMoniker": "xadrez\\Torre.cs",
-              "ToolTip": "E:\\Desenvolvimento\\xadrez-console\\xadrez\\Torre.cs",
-              "RelativeToolTip": "xadrez\\Torre.cs",
-              "ViewState": "AQIAADYAAAAAAAAAAAAcwDwAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T01:23:28.396Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
@@ -109,6 +96,18 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Torre.cs",
+              "DocumentMoniker": "E:\\Desenvolvimento\\xadrez-console\\xadrez\\Torre.cs",
+              "RelativeDocumentMoniker": "xadrez\\Torre.cs",
+              "ToolTip": "E:\\Desenvolvimento\\xadrez-console\\xadrez\\Torre.cs",
+              "RelativeToolTip": "xadrez\\Torre.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAcwDwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T01:23:28.396Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Dama.cs",
               "DocumentMoniker": "E:\\Desenvolvimento\\xadrez-console\\xadrez\\Dama.cs",
@@ -117,8 +116,7 @@
               "RelativeToolTip": "xadrez\\Dama.cs",
               "ViewState": "AQIAAFIAAAAAAAAAAAAcwIAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T00:01:10.987Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-22T00:01:10.987Z"
             },
             {
               "$type": "Document",
