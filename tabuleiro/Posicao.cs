@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace tabuleiro
+﻿namespace tabuleiro
 {
     class Posicao
     {
@@ -23,8 +17,6 @@ namespace tabuleiro
             this.linha = linha;
             this.coluna = coluna;
         }
-
-       
 
         public override string ToString()
         {
